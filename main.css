@@ -1,0 +1,61 @@
+
+
+ .hero {
+   background-image: url("img/hero-fondo.jpg");
+   /* Center and scale the image nicely */
+   background-position: center;
+   background-size: cover;
+ }
+
+ .navbar {
+   padding-top: 30px;
+ }
+
+ .navbar a {
+  color: #f2f2f2;
+  font-size: 1.3rem;
+  font-weight: 650;
+ }
+
+ .navbar a:hover {
+   color: black;
+ }
+
+ .navbar-brand img {
+   max-height: unset !important;
+   height:7rem;
+  }
+
+ .navbar-start {
+   margin-left: 18rem;
+ }
+
+.navbar-end {
+  padding-right: 2rem;
+}
+
+.navbar-menu .navbar-item {
+  padding-left: 4rem;
+}
+
+.hero-body h1 {
+  color: #f2f2f2;
+}
+
+#section-one img {
+height: 350px;
+width: auto;
+}
+
+.footer {
+  background-color: #2c2e31;
+  color: #888f91;
+}
+
+.footer .subtitle {
+  color: unset;
+}
+
+.footer a {
+  color: unset;
+}
